@@ -1,1 +1,1 @@
-#Fun simple project that enables that uses haarcascade to track users hand
+#Fun simple project that uses haarcascade and open-cv to track users hand gestures
